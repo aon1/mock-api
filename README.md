@@ -1,2 +1,4 @@
-- npm install
-- node index.js
+```console
+npm install
+node index.js
+```
